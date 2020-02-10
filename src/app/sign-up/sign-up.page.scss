@@ -1,0 +1,100 @@
+.content_{
+    --background: url(../../assets/FreeMiBackground_SignUp.png) 0 0/100% 100% no-repeat;
+    background-repeat: no-repeat;
+background-size:cover;
+}
+
+
+
+button.btn-brwn {
+    background: #b2bebe;
+    font-size: 16px;
+    width: 76%;
+    height: 30px;
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 7px;
+}
+
+.login-box {
+    background: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: 78%;
+    padding-bottom: 23px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 22px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+p.p_ {
+    font-size: 12px;
+    padding-left: 16px;
+    color: #9c9ca1;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.Input_{
+    background: #efeff4;
+    width: 90%;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 6px;
+        padding-left: 10px !important;
+}
+
+
+
+
+span.I_ {
+    color: #949494;
+    text-decoration: underline;
+}
+
+p.terms_ {
+    color: #949494;
+    font-size: 9px;
+    margin-left: 1px;
+    margin-top: 12px;
+}
+
+ion-checkbox{
+    background: #FFFFFF;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-radius: 4px;
+    border-color: #86888f !important;
+    --checkmark-color: #86888f;
+    --background-checked: #FFFFFF;
+    --border-color: #FFFFFF;
+    --border-color-checked: #FFFFFF;
+    height: 15px;
+    width: 15px;
+   }
+
+   span.ch__ {
+    margin-left: 4px;
+}
+
+p.have_ {
+    margin-top: -10px;
+    color: #b2bebe;
+    font-size: 11px;
+}
+
+span.check__ {
+    padding-left: 14px;
+}
+
+p.term__ {
+    margin-top: 10px;
+}
+
